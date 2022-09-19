@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![weatherapp](https://user-images.githubusercontent.com/55484097/190964368-f24c10cd-8e2d-4923-bb36-51c401112425.png)
+![Untitled](https://user-images.githubusercontent.com/55484097/190966243-bbfe2a52-69f6-41b1-82a5-5cf8b222905f.png)
 
 
 ## Getting Started
