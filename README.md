@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+![weatherapp](https://user-images.githubusercontent.com/55484097/190964368-f24c10cd-8e2d-4923-bb36-51c401112425.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
